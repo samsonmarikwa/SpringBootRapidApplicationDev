@@ -1,0 +1,18 @@
+{
+  "name": "bower-demo",
+  "homepage": "https://github.com/samsonmarikwa/SpringBootRapidApplicationDev",
+  "description": "bower demo app",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/main/resources/static/lib/"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
